@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row-reverse;
+	align-content:center;
+	justify-content:center;
+}
+item{
+	border:1px solid black;
+}
+.red{
+	background-color:red;
+}
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
